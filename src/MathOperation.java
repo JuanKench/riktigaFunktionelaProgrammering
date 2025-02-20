@@ -7,5 +7,4 @@ public interface MathOperation {
     default MathOperation combineWithMultiplication(MathOperation other) {
         return (a, b) -> this.operation(a, b) * other.operation(a, b);
     }
-
 }

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mongodb.bson" type="repository">
+    <properties maven-id="org.mongodb:bson:5.2.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bson-5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

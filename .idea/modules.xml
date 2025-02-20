@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FunktionelProgrameringUp2.iml" filepath="$PROJECT_DIR$/FunktionelProgrameringUp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MongodbExaminerandeuppgift1/MongodbExaminerandeuppgift1.iml" filepath="$PROJECT_DIR$/MongodbExaminerandeuppgift1/MongodbExaminerandeuppgift1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upgift 3/upgift 3.iml" filepath="$PROJECT_DIR$/upgift 3/upgift 3.iml" />
     </modules>
   </component>
 </project>
